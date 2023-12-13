@@ -1,1 +1,1 @@
-pull pannu
+print('hello world')
